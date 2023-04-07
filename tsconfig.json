@@ -15,9 +15,19 @@
     "strictNullChecks": true,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
-    "strict": true
+    "strict": true,
+    "resolveJsonModule": true
   },
   "include": ["src"],
   "exclude": ["node_modules", "build"],
-  "types": ["typePatches"]
+  "types": ["typePatches"],
+  "plugins": [
+    [
+      "formatjs",
+      {
+        "idInterpolationPattern": "[sha512:contenthash:base64:6]",
+        "ast": true
+      }
+    ]
+  ]
 }
