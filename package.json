@@ -4,11 +4,16 @@
   "private": true,
   "homepage": "https://Aleksandr-Alekseenko-23.github.io/work-portfolio/",
   "dependencies": {
+    "@formatjs/intl-numberformat": "^8.3.5",
+    "@reduxjs/toolkit": "^1.9.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-intl": "^6.3.2",
     "react-loader-spinner": "^5.3.4",
+    "react-redux": "^8.0.5",
     "react-router-dom": "^6.8.1",
     "react-scripts": "5.0.1",
+    "redux-persist": "^6.0.0",
     "styled-components": "^5.3.6",
     "web-vitals": "^2.1.0"
   },
@@ -46,6 +51,8 @@
     "@types/node": "^16.7.13",
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
+    "@types/styled-components": "^5.1.26",
+    "babel-plugin-formatjs": "^10.4.0",
     "typescript": "^4.9.4"
   }
 }
