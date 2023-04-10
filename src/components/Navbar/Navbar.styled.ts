@@ -14,10 +14,5 @@ export const NavListItem = styled.li`
 export const NavLinkItem = styled(NavLink)`
   font-size: 20px;
   text-decoration: none;
-`;
-
-export const Wrapper = styled.div`
-  display: flex;
-  align-items: center;
-  justify-content: space-around;
+  color: white;
 `;
