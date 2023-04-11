@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwork_portfolio=self.webpackChunkwork_portfolio||[]).push([[391],{391:function(o,r,e){e.r(r);e(791);var n=e(184);r.default=function(){return(0,n.jsx)("div",{children:"Home"})}}}]);
+//# sourceMappingURL=391.69c33ee3.chunk.js.map

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwork_portfolio=self.webpackChunkwork_portfolio||[]).push([[7],{7:function(o){o.exports=JSON.parse('{"en":{"navbarLinkHome":"Home","navbarLinkProject":"Project","navbarLinkAbout":"About","navbarLinkContacts":"Contacts"}}')}}]);
