@@ -14,7 +14,8 @@
     "react-router-dom": "^6.8.1",
     "react-scripts": "5.0.1",
     "redux-persist": "^6.0.0",
-    "styled-components": "^5.3.6",
+    "styled-components": "^5.3.9",
+    "styled-system": "^5.1.5",
     "web-vitals": "^2.1.0"
   },
   "scripts": {
@@ -54,6 +55,7 @@
     "@types/react-redux": "^7.1.25",
     "@types/react-router-dom": "^5.3.3",
     "@types/styled-components": "^5.1.26",
+    "@types/styled-system": "^5.1.16",
     "babel-plugin-formatjs": "^10.4.0",
     "typescript": "^4.9.4"
   }
