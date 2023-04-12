@@ -4,7 +4,7 @@ export const links = [
   {
     id: '1',
     label: <FormattedMessage id="navbarLinkHome" defaultMessage="Home" />,
-    path: '/home',
+    path: '/',
   },
   {
     id: '2',
